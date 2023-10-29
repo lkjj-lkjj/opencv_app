@@ -1,1 +1,0 @@
-C:\Users\lkj\AndroidStudioProjects\opencv_app\sdk\libcxx_helper\CMakeLists.txt
